@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510246594475",
+    "project_id": "coffee-brew-f4cf8",
+    "storage_bucket": "coffee-brew-f4cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510246594475:android:e76eb84078350240c714ee",
+        "android_client_info": {
+          "package_name": "com.lightningboltz.brew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510246594475-orcl3nvp2o75ph6v0r5e8mm8il7ubbj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEOML0hd7ZqmefDQUwU3nZ73qGXRDt80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510246594475-orcl3nvp2o75ph6v0r5e8mm8il7ubbj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
